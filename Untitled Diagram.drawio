@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T09:06:45.183Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.1.8" etag="Nddn6FFy9CtYpQ3TVuy6" type="github"><diagram id="AKRXmXPGOTRkor1I_Sxm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T01:40:52.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="a1JU6AnBtzQm2KGnJvlt" version="14.1.8" type="github">
+  <diagram id="AKRXmXPGOTRkor1I_Sxm" name="Page-1">
+    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="elXVw34h5qLBH9babGIC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="elXVw34h5qLBH9babGIC-1" target="elXVw34h5qLBH9babGIC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="elXVw34h5qLBH9babGIC-4" value="Protobuf" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="elXVw34h5qLBH9babGIC-3">
+          <mxGeometry x="-0.2222" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elXVw34h5qLBH9babGIC-1" value="会场、Relay外部数据源" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="221.25" y="360" width="205.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="elXVw34h5qLBH9babGIC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="190" width="216" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
