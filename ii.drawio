@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T08:51:17.350Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5R_oA6PBmo-q8p6-9zXC" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T08:53:22.222Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GT3tcxTyaS1AHdZSZCDb" version="14.2.2" type="github">
   <diagram id="ft7_9u52nOeRCnv9DeZ4" name="Page-1">
     <mxGraphModel dx="650" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,39 @@
               <mxPoint x="294.5" y="400.71" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-26" value="会场服务，Relay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-28" value="数据汇集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="577.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-30" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294.5" y="540.71" as="sourcePoint" />
+            <mxPoint x="294.5" y="489.9993218813452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-32" value="媒体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="690" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-33" value="数据收集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="717.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-34" value="信令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="690" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-35" value="核心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-36" value="应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="732.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-37" value="服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="732.5" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
