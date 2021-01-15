@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T08:41:24.309Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Das56yqETOMYxaq67OYf" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T08:46:22.926Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1NNx7qEgzxmE8I2jGw_T" version="14.2.2" type="github">
   <diagram id="ft7_9u52nOeRCnv9DeZ4" name="Page-1">
     <mxGraphModel dx="650" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zXXFbBilxmNKrW1xNDXD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="260" height="70" as="geometry" />
+          <mxGeometry x="130" y="115" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-2" value="数据呈现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-3" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-5" value="外部集成portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zXXFbBilxmNKrW1xNDXD-6" target="zXXFbBilxmNKrW1xNDXD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-9" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="297.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="zXXFbBilxmNKrW1xNDXD-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="272.5" width="150" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
